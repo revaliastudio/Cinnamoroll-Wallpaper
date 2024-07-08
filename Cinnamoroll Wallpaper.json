@@ -1,0 +1,649 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+   "More":
+  [
+    {
+      "id":1,
+      "title":"judul",
+      "image":"link_gambar",
+      "link":"link"
+    }
+
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Cinnamoroll",
+      "image": "link_gambar"
+    }
+    
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Cinnamoroll",
+      "title":"Image 01",
+      "image":"https://i.pinimg.com/736x/7a/3f/e8/7a3fe85082c9aadb8c4bd52dfe1e17b1.jpg",
+      "lock":true
+    },
+	{
+      "id":2,
+      "name_category": "Cinnamoroll",
+      "title":"Image 02",
+      "image":"https://i.pinimg.com/564x/42/54/be/4254bea3688fe8e39709540291def935.jpg",
+      "lock":true
+    },
+	{
+      "id":3,
+      "name_category": "Cinnamoroll",
+      "title":"Image 03",
+      "image":"https://i.pinimg.com/564x/4c/38/31/4c38312fcffc0f9d868a0cb4ec3cd40f.jpg",
+      "lock":true
+    },
+	{
+      "id":4,
+      "name_category": "Cinnamoroll",
+      "title":"Image 04",
+      "image":"https://i.pinimg.com/564x/62/60/60/626060539d1000e9d92053c50f4e4293.jpg",
+      "lock":true
+    },
+	{
+      "id":5,
+      "name_category": "Cinnamoroll",
+      "title":"Image 05",
+      "image":"https://i.pinimg.com/564x/e5/65/3e/e5653ed83f1f6cde3b2ed306e6ea28a3.jpg",
+      "lock":true
+    },
+	{
+      "id":6,
+      "name_category": "Cinnamoroll",
+      "title":"Image 06",
+      "image":"https://i.pinimg.com/564x/8e/b1/47/8eb1476615cbeacb5ec974440bdd06d3.jpg",
+      "lock":true
+    },
+	{
+      "id":7,
+      "name_category": "Cinnamoroll",
+      "title":"Image 07",
+      "image":"https://i.pinimg.com/564x/12/6e/e4/126ee491427e8f2c21af157c50380bc1.jpg",
+      "lock":true
+    },
+	{
+      "id":8,
+      "name_category": "Cinnamoroll",
+      "title":"Image 08",
+      "image":"https://i.pinimg.com/564x/bb/32/fa/bb32fa7d553eb0cd49058d24b116ad86.jpg",
+      "lock":true
+    },
+	{
+      "id":9,
+      "name_category": "Cinnamoroll",
+      "title":"Image 09",
+      "image":"https://i.pinimg.com/564x/c9/e8/9f/c9e89f0f31b4d4c3a8700251dba8a4a3.jpg",
+      "lock":true
+    },
+	{
+      "id":10,
+      "name_category": "Cinnamoroll",
+      "title":"Image 10",
+      "image":"https://i.pinimg.com/564x/52/d3/44/52d344e4198b94f0f5b55f4f4cb5c851.jpg",
+      "lock":true
+    },
+	{
+      "id":11,
+      "name_category": "Cinnamoroll",
+      "title":"Image 11",
+      "image":"https://i.pinimg.com/564x/e3/8d/6d/e38d6d6855088e77175aa5a2c289d0ee.jpg",
+      "lock":false
+    },
+	{
+      "id":12,
+      "name_category": "Cinnamoroll",
+      "title":"Image 12",
+      "image":"https://i.pinimg.com/564x/da/76/e5/da76e58991e575f9e3f09fb251898700.jpg",
+      "lock":false
+    },
+	{
+      "id":13,
+      "name_category": "Cinnamoroll",
+      "title":"Image 13",
+      "image":"https://i.pinimg.com/564x/a5/bb/5e/a5bb5efde887d48e1adb2299907e1bfe.jpg",
+      "lock":false
+    },
+	{
+      "id":14,
+      "name_category": "Cinnamoroll",
+      "title":"Image 14",
+      "image":"https://i.pinimg.com/564x/12/a9/81/12a98130e075ddb6fddf9a7a3b3afb49.jpg",
+      "lock":false
+    },
+	{
+      "id":15,
+      "name_category": "Cinnamoroll",
+      "title":"Image 15",
+      "image":"https://i.pinimg.com/564x/66/96/81/669681245032790800d476c2b8e12f68.jpg",
+      "lock":false
+    },
+	{
+      "id":16,
+      "name_category": "Cinnamoroll",
+      "title":"Image 16",
+      "image":"https://i.pinimg.com/564x/cc/b1/a1/ccb1a1ca43796ac8e1386fbf6696e66b.jpg",
+      "lock":false
+    },
+	{
+      "id":17,
+      "name_category": "Cinnamoroll",
+      "title":"Image 17",
+      "image":"https://i.pinimg.com/564x/10/29/21/102921a0b30b2bdf8c0a374c28033885.jpg",
+      "lock":false
+    },
+	{
+      "id":18,
+      "name_category": "Cinnamoroll",
+      "title":"Image 18",
+      "image":"https://i.pinimg.com/564x/d9/fd/35/d9fd352b6e844e22227832af18df2606.jpg",
+      "lock":false
+    },
+	{
+      "id":19,
+      "name_category": "Cinnamoroll",
+      "title":"Image 19",
+      "image":"https://i.pinimg.com/564x/89/be/28/89be28345767069938949cb4077c7190.jpg",
+      "lock":false
+    },
+	{
+      "id":20,
+      "name_category": "Cinnamoroll",
+      "title":"Image 20",
+      "image":"https://i.pinimg.com/564x/a6/4d/f6/a64df69d452d9eb6d7ef18a2defec582.jpg",
+      "lock":false
+    },
+	{
+      "id":21,
+      "name_category": "Cinnamoroll",
+      "title":"Image 21",
+      "image":"https://i.pinimg.com/564x/40/19/f7/4019f75f4321c19e0f26797bb62f3cd3.jpg",
+      "lock":false
+    },
+	{
+      "id":22,
+      "name_category": "Cinnamoroll",
+      "title":"Image 22",
+      "image":"https://i.pinimg.com/564x/27/f7/59/27f75936cebbfada97594fbd5048f254.jpg",
+      "lock":false
+    },
+	{
+      "id":23,
+      "name_category": "Cinnamoroll",
+      "title":"Image 23",
+      "image":"https://i.pinimg.com/564x/7b/47/38/7b4738840ae7005e564343b9ea58a2a0.jpg",
+      "lock":false
+    },
+	{
+      "id":24,
+      "name_category": "Cinnamoroll",
+      "title":"Image 24",
+      "image":"https://i.pinimg.com/564x/26/7a/31/267a318691bed5405d1f05bbffef5d37.jpg",
+      "lock":false
+    },
+	{
+      "id":25,
+      "name_category": "Cinnamoroll",
+      "title":"Image 25",
+      "image":"https://i.pinimg.com/564x/f9/4d/dd/f94ddd40eb92a9dd87d3ce48fa1bf2f2.jpg",
+      "lock":false
+    },
+	{
+      "id":26,
+      "name_category": "Cinnamoroll",
+      "title":"Image 26",
+      "image":"https://i.pinimg.com/564x/2e/88/a3/2e88a38bf99cf086ec34d65ff8c7d1d8.jpg",
+      "lock":false
+    },
+	{
+      "id":27,
+      "name_category": "Cinnamoroll",
+      "title":"Image 27",
+      "image":"https://i.pinimg.com/564x/4e/bd/0d/4ebd0d0d53827a4a426e1a9d7b6a98ac.jpg",
+      "lock":false
+    },
+	{
+      "id":28,
+      "name_category": "Cinnamoroll",
+      "title":"Image 28",
+      "image":"https://i.pinimg.com/564x/ed/d7/d8/edd7d8d7dd4cf389e298b7b846be09f1.jpg",
+      "lock":false
+    },
+	{
+      "id":29,
+      "name_category": "Cinnamoroll",
+      "title":"Image 29",
+      "image":"https://i.pinimg.com/564x/bc/2f/cd/bc2fcd7f3362306cd9585c1859f05bee.jpg",
+      "lock":false
+    },
+	{
+      "id":30,
+      "name_category": "Cinnamoroll",
+      "title":"Image 30",
+      "image":"https://i.pinimg.com/564x/58/68/71/5868711aec07cd884b16a2e02108f666.jpg",
+      "lock":false
+    },
+	{
+      "id":31,
+      "name_category": "Cinnamoroll",
+      "title":"Image 31",
+      "image":"https://i.pinimg.com/564x/47/b8/69/47b869aae9890fd3416555329a84d10c.jpg",
+      "lock":false
+    },
+	{
+      "id":32,
+      "name_category": "Cinnamoroll",
+      "title":"Image 32",
+      "image":"https://i.pinimg.com/564x/25/6c/33/256c33716eb5270aa340b4b3e0b54dc1.jpg",
+      "lock":false
+    },
+	{
+      "id":33,
+      "name_category": "Cinnamoroll",
+      "title":"Image 33",
+      "image":"https://i.pinimg.com/564x/76/24/45/76244589168ef02e28bb07c8a7c85cf7.jpg",
+      "lock":false
+    },
+	{
+      "id":34,
+      "name_category": "Cinnamoroll",
+      "title":"Image 34",
+      "image":"https://i.pinimg.com/564x/63/8a/01/638a014faa95affd3b5bcfedbffbad10.jpg",
+      "lock":false
+    },
+	{
+      "id":35,
+      "name_category": "Cinnamoroll",
+      "title":"Image 35",
+      "image":"https://i.pinimg.com/564x/9d/0c/c4/9d0cc4a8cd87bc86f4f4063e4c485d67.jpg",
+      "lock":false
+    },
+	{
+      "id":36,
+      "name_category": "Cinnamoroll",
+      "title":"Image 36",
+      "image":"https://i.pinimg.com/564x/7a/c3/86/7ac386e6bef6e97fa7c17e5720635753.jpg",
+      "lock":false
+    },
+	{
+      "id":37,
+      "name_category": "Cinnamoroll",
+      "title":"Image 37",
+      "image":"https://i.pinimg.com/564x/0b/20/33/0b2033fca9bceabcb2521ef46396837a.jpg",
+      "lock":false
+    },
+	{
+      "id":38,
+      "name_category": "Cinnamoroll",
+      "title":"Image 38",
+      "image":"https://i.pinimg.com/564x/c2/69/62/c269625bcd9ecfae1af9e6e262cd8328.jpg",
+      "lock":false
+    },
+	{
+      "id":39,
+      "name_category": "Cinnamoroll",
+      "title":"Image 39",
+      "image":"https://i.pinimg.com/736x/ba/ff/bb/baffbb63f183a9e52f0001d306dba8b5.jpg",
+      "lock":false
+    },
+	{
+      "id":40,
+      "name_category": "Cinnamoroll",
+      "title":"Image 40",
+      "image":"https://i.pinimg.com/564x/d7/f3/a7/d7f3a798b647739eb91ebce6e16dad04.jpg",
+      "lock":false
+    },
+	{
+      "id":41,
+      "name_category": "Cinnamoroll",
+      "title":"Image 41",
+      "image":"https://i.pinimg.com/736x/cf/98/aa/cf98aaae18a8f3616750bc0230540363.jpg",
+      "lock":false
+    },
+	{
+      "id":42,
+      "name_category": "Cinnamoroll",
+      "title":"Image 42",
+      "image":"https://i.pinimg.com/564x/53/ef/27/53ef27ebb94aac838aec90ddd73ae155.jpg",
+      "lock":false
+    },
+	{
+      "id":43,
+      "name_category": "Cinnamoroll",
+      "title":"Image 43",
+      "image":"https://i.pinimg.com/564x/50/c9/0d/50c90de2b5f8858fad018df7c0f4de75.jpg",
+      "lock":false
+    },
+	{
+      "id":44,
+      "name_category": "Cinnamoroll",
+      "title":"Image 44",
+      "image":"https://i.pinimg.com/564x/50/07/e2/5007e261ba5af4e316eb12f373b45e2e.jpg",
+      "lock":false
+    },
+	{
+      "id":45,
+      "name_category": "Cinnamoroll",
+      "title":"Image 45",
+      "image":"https://i.pinimg.com/564x/5b/43/fe/5b43febad4aa6ebf76d2f9b606847b9f.jpg",
+      "lock":false
+    },
+	{
+      "id":46,
+      "name_category": "Cinnamoroll",
+      "title":"Image 46",
+      "image":"https://i.pinimg.com/564x/2b/d4/48/2bd44818e1275e1f9796ad3925697644.jpg",
+      "lock":false
+    },
+	{
+      "id":47,
+      "name_category": "Cinnamoroll",
+      "title":"Image 47",
+      "image":"https://i.pinimg.com/564x/35/53/1e/35531eced56997247920eaabd044c458.jpg",
+      "lock":false
+    },
+	{
+      "id":48,
+      "name_category": "Cinnamoroll",
+      "title":"Image 48",
+      "image":"https://i.pinimg.com/564x/d1/74/b8/d174b873a2c73f220924c175fa1b22b5.jpg",
+      "lock":false
+    },
+	{
+      "id":49,
+      "name_category": "Cinnamoroll",
+      "title":"Image 49",
+      "image":"https://i.pinimg.com/564x/21/7d/58/217d58a6064c30280d6b19197b3ace52.jpg",
+      "lock":false
+    },
+	{
+      "id":50,
+      "name_category": "Cinnamoroll",
+      "title":"Image 50",
+      "image":"https://i.pinimg.com/564x/0a/8a/8b/0a8a8b8800624ced880732589b1b4b49.jpg",
+      "lock":false
+    },
+	{
+      "id":51,
+      "name_category": "Cinnamoroll",
+      "title":"Image 51",
+      "image":"https://i.pinimg.com/564x/8d/3b/29/8d3b29365d6b3e820b8041d6dad75a30.jpg",
+      "lock":false
+    },
+	{
+      "id":52,
+      "name_category": "Cinnamoroll",
+      "title":"Image 52",
+      "image":"https://i.pinimg.com/564x/ac/9e/f8/ac9ef80b983d07f899a99ecee84e43b6.jpg",
+      "lock":false
+    },
+	{
+      "id":53,
+      "name_category": "Cinnamoroll",
+      "title":"Image 53",
+      "image":"https://i.pinimg.com/736x/06/ec/a2/06eca2ab60edd22d43635c0a9c05db68.jpg",
+      "lock":false
+    },
+	{
+      "id":54,
+      "name_category": "Cinnamoroll",
+      "title":"Image 54",
+      "image":"https://i.pinimg.com/564x/db/74/f8/db74f8bd363a9ba2ab8fad280f3229a6.jpg",
+      "lock":false
+    },
+	{
+      "id":55,
+      "name_category": "Cinnamoroll",
+      "title":"Image 55",
+      "image":"https://i.pinimg.com/564x/9a/ff/a7/9affa7a94012c726d7629f862103073b.jpg",
+      "lock":false
+    },
+	{
+      "id":56,
+      "name_category": "Cinnamoroll",
+      "title":"Image 56",
+      "image":"https://i.pinimg.com/564x/0c/3e/55/0c3e5585a5f2d9d50652976920d87518.jpg",
+      "lock":false
+    },
+	{
+      "id":57,
+      "name_category": "Cinnamoroll",
+      "title":"Image 57",
+      "image":"https://i.pinimg.com/564x/19/79/0a/19790aac68ca1b1d915be949c68bf5b6.jpg",
+      "lock":false
+    },
+	{
+      "id":58,
+      "name_category": "Cinnamoroll",
+      "title":"Image 58",
+      "image":"https://i.pinimg.com/564x/0c/9b/56/0c9b568539e66011cab384d4143c4ac9.jpg",
+      "lock":false
+    },
+	{
+      "id":59,
+      "name_category": "Cinnamoroll",
+      "title":"Image 59",
+      "image":"https://i.pinimg.com/564x/65/fc/22/65fc224ae04e5ec6412bf07ca79a5f03.jpg",
+      "lock":false
+    },
+	{
+      "id":60,
+      "name_category": "Cinnamoroll",
+      "title":"Image 60",
+      "image":"https://i.pinimg.com/564x/f3/09/d3/f309d379b0708de1d4b4b1f8d54781c3.jpg",
+      "lock":false
+    },
+	{
+      "id":61,
+      "name_category": "Cinnamoroll",
+      "title":"Image 61",
+      "image":"https://i.pinimg.com/564x/15/f5/8d/15f58da2699d17eb825b090a8aa6ef38.jpg",
+      "lock":false
+    },
+	{
+      "id":62,
+      "name_category": "Cinnamoroll",
+      "title":"Image 62",
+      "image":"https://i.pinimg.com/564x/65/fc/22/65fc224ae04e5ec6412bf07ca79a5f03.jpg",
+      "lock":false
+    },
+	{
+      "id":63,
+      "name_category": "Cinnamoroll",
+      "title":"Image 63",
+      "image":"https://i.pinimg.com/564x/2b/51/51/2b515186ac0447a5e963533d9d7a1e22.jpg",
+      "lock":false
+    },
+	{
+      "id":64,
+      "name_category": "Cinnamoroll",
+      "title":"Image 64",
+      "image":"https://i.pinimg.com/564x/6b/d3/ef/6bd3ef71256c78ca9f5ffb550bec8cc1.jpg",
+      "lock":false
+    },
+	{
+      "id":65,
+      "name_category": "Cinnamoroll",
+      "title":"Image 65",
+      "image":"https://i.pinimg.com/564x/07/5d/e3/075de33c1e599dc100e47daae59d2cae.jpg",
+      "lock":false
+    },
+	{
+      "id":66,
+      "name_category": "Cinnamoroll",
+      "title":"Image 66",
+      "image":"https://i.pinimg.com/564x/32/19/8d/32198d24da7385cd5ebbdb44c545122a.jpg",
+      "lock":false
+    },
+	{
+      "id":67,
+      "name_category": "Cinnamoroll",
+      "title":"Image 67",
+      "image":"https://i.pinimg.com/564x/f2/ac/62/f2ac626e481f11c4da26dc81fcfd9ff6.jpg",
+      "lock":false
+    },
+	{
+      "id":68,
+      "name_category": "Cinnamoroll",
+      "title":"Image 68",
+      "image":"https://i.pinimg.com/564x/12/2b/58/122b58afcaeaf7b82d6e92adbb25cefe.jpg",
+      "lock":false
+    },
+	{
+      "id":69,
+      "name_category": "Cinnamoroll",
+      "title":"Image 69",
+      "image":"https://i.pinimg.com/564x/8a/be/6a/8abe6ad2d66eda2dba561042aae83aea.jpg",
+      "lock":false
+    },
+	{
+      "id":70,
+      "name_category": "Cinnamoroll",
+      "title":"Image 70",
+      "image":"https://i.pinimg.com/564x/6b/66/a3/6b66a3b1baf1bc2574eb7c0c1a39f65a.jpg",
+      "lock":false
+    },
+	{
+      "id":71,
+      "name_category": "Cinnamoroll",
+      "title":"Image 71",
+      "image":"https://i.pinimg.com/564x/c7/82/4c/c7824c11090235fa027667b7386a8a60.jpg",
+      "lock":false
+    },
+	{
+      "id":72,
+      "name_category": "Cinnamoroll",
+      "title":"Image 72",
+      "image":"https://i.pinimg.com/564x/35/cb/6c/35cb6ce2e2395a4adb8f010e890df34f.jpg",
+      "lock":false
+    },
+	{
+      "id":73,
+      "name_category": "Cinnamoroll",
+      "title":"Image 73",
+      "image":"https://i.pinimg.com/564x/7e/87/24/7e8724a08297f133fa4ee3f515ed745e.jpg",
+      "lock":false
+    },
+	{
+      "id":74,
+      "name_category": "Cinnamoroll",
+      "title":"Image 74",
+      "image":"https://i.pinimg.com/564x/7f/a4/cf/7fa4cf7fc1a0f14d00466c13af3f34c6.jpg",
+      "lock":false
+    },
+	{
+      "id":75,
+      "name_category": "Cinnamoroll",
+      "title":"Image 75",
+      "image":"https://i.pinimg.com/564x/f2/98/b9/f298b9f7ef77f5bf0149bb5799270375.jpg",
+      "lock":false
+    },
+	{
+      "id":76,
+      "name_category": "Cinnamoroll",
+      "title":"Image 76",
+      "image":"https://i.pinimg.com/564x/3e/d2/c9/3ed2c922c5021e77c90e29fa04a46013.jpg",
+      "lock":false
+    },
+	{
+      "id":77,
+      "name_category": "Cinnamoroll",
+      "title":"Image 77",
+      "image":"https://i.pinimg.com/564x/e0/83/c0/e083c0782c3c8b4aca6d048b823907bc.jpg",
+      "lock":false
+    },
+	{
+      "id":78,
+      "name_category": "Cinnamoroll",
+      "title":"Image 78",
+      "image":"https://i.pinimg.com/564x/18/e0/ac/18e0ace178c200d75cc628ec08205960.jpg",
+      "lock":false
+    },
+	{
+      "id":79,
+      "name_category": "Cinnamoroll",
+      "title":"Image 79",
+      "image":"https://i.pinimg.com/564x/23/7a/9e/237a9e88dd158754de7b80c3dcc16615.jpg",
+      "lock":false
+    },
+	{
+      "id":80,
+      "name_category": "Cinnamoroll",
+      "title":"Image 80",
+      "image":"https://i.pinimg.com/564x/2a/fd/8f/2afd8f0f14d4c0d73f0cd9e992f804c4.jpg",
+      "lock":false
+    },
+	{
+      "id":81,
+      "name_category": "Cinnamoroll",
+      "title":"Image 81",
+      "image":"https://i.pinimg.com/564x/17/81/cd/1781cd6d83abb5c1429271359f70de63.jpg",
+      "lock":false
+    },
+	{
+      "id":82,
+      "name_category": "Cinnamoroll",
+      "title":"Image 82",
+      "image":"https://i.pinimg.com/564x/36/6a/02/366a022b5f0a1ee4936a63118bb0d295.jpg",
+      "lock":false
+    },
+	{
+      "id":83,
+      "name_category": "Cinnamoroll",
+      "title":"Image 83",
+      "image":"https://i.pinimg.com/564x/c7/1c/f8/c71cf894510474ab1bbf578c8bcff9f6.jpg",
+      "lock":false
+    },
+	{
+      "id":84,
+      "name_category": "Cinnamoroll",
+      "title":"Image 84",
+      "image":"https://i.pinimg.com/564x/87/44/82/874482a6266c371a2dd8a7f3944a0a6d.jpg",
+      "lock":false
+    },
+	{
+      "id":85,
+      "name_category": "Cinnamoroll",
+      "title":"Image 85",
+      "image":"https://i.pinimg.com/564x/18/fa/ee/18faeeaa152f6a752984b1911b21b380.jpg",
+      "lock":false
+    }
+    
+  ]
+}
